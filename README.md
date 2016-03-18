@@ -12,4 +12,4 @@ You will find this function in the `linux` directory under the name **dns-tool.s
 
 ## Usage
 
-![](ss)
+![](https://raw.githubusercontent.com/iamnotjason/wp-dns-tool/master/example.gif)
